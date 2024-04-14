@@ -1,25 +1,23 @@
 {
-	"ads": false,
-	"free": true,
-	"name": "Nebula X",
-	"theme": "",
-	"contact": "support@nebulax.app",
-	"stores": {
-		"apple": "https://apps.apple.com/us/app/nebulax/id1234567890",
-		"google": "https://play.google.com/store/apps/details?id=com.nebulax.app"
-	},
-	"description": [
-		"is a powerful and user-friendly app.",
-		"You can easily plan and schedule video publishing to multiple platforms. This will save you time and ease the pain of multi platform management.",
-		"With real-time updates, you won't have to reload the page.",
-		"This is still in development. We will launch soon!"
-	],
-	"features": [
-
-	],
-	"social": {
-		"twitter": "https://twitter.com/nebula-x",
-		"youtube": "https://www.youtube.com/nebula-x",
-		"discord": "https://discord.gg/nebula-x"
-	}
+  "ads": false,
+  "free": true,
+  "name": "Nebula X",
+  "theme": "",
+  "contact": "support@nebulax.app",
+  "stores": {
+    "apple": "https://apps.apple.com/us/app/nebulax/id1234567890",
+    "google": "https://play.google.com/store/apps/details?id=com.nebulax.app"
+  },
+  "description": [
+    "is a powerful and user-friendly app.",
+    "You can easily plan and schedule video publishing to multiple platforms. This will save you time and ease the pain of multi platform management.",
+    "With real-time updates, you won't have to reload the page.",
+    "This is still in development. We will launch soon!"
+  ],
+  "features": [],
+  "social": {
+    "twitter": "https://twitter.com/nebula-x",
+    "youtube": "https://www.youtube.com/nebula-x",
+    "discord": "https://discord.gg/nebula-x"
+  }
 }
