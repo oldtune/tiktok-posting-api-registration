@@ -5,21 +5,16 @@ import Switch from "./Switch";
 
 const Items = [
   {
-    tagline: "Download",
-    href: App.stores.apple,
-  },
-  {
-    href: "/icon.png",
-    tagline: "Press Kit",
-    download: true,
-  },
-  {
     tagline: "Privacy Policy",
     href: "/privacy",
   },
   {
     tagline: "Contact",
     href: `mailto:${App.contact}`,
+  },
+  {
+    tagline: "Terms and Services",
+    href: "/termsandservices",
   },
 ];
 
@@ -47,16 +42,6 @@ const Style = "dark:text-white capitalize";
             download={item.download || false}
           >
             {item.tagline}
-          </a>
-        ))
-      }
-    </div>
-
-    <div class="flex gap-x-3 text-sm">
-      {
-        Object.entries(App.social).map(([media, value], index) => (
-          <a href={value} target="_blank" class={Style}>
-            {media}
           </a>
         ))
       }
